@@ -1,3 +1,5 @@
+This repository acts as an archive of my first projects involving Pygame and Python.
+
 # pygame 2020 - 2021
 ## circlegamething.py
 this game is an recreation of the famous pool game done on pygame in just hours 
